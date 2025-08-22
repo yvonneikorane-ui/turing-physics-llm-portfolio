@@ -1,4 +1,3 @@
-# turing-physics-llm-portfolio
 # Turing Physics LLM Portfolio
 
 ## 📌 Problem Statement
